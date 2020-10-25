@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="background.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="panel-background.svg"
    version="1"
    height="210.939"
    width="205"
@@ -32,12 +32,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="129.41395"
-     inkscape:cx="367.53332"
-     inkscape:zoom="1.1188069"
+     inkscape:cy="110.86886"
+     inkscape:cx="110.4131"
+     inkscape:zoom="1.5822319"
      showgrid="false"
      id="namedview105"
-     inkscape:window-height="1013"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -301,15 +301,6 @@
        d="m 69,107.93945 c 3.306703,0 6,-2.69329 6,-6 v -2.000005 h -1 v 2.000005 c 0,2.77 -2.23,5 -5,5 h -2 v 1 z"
        id="path4276" />
   </g>
-  <g
-     transform="matrix(0.31570315,0,0,0.31570315,1.894219,193.8907)"
-     id="shadow-center"
-     style="fill:#000000;fill-opacity:0">
-    <path
-       d="m -6.0000004,-7.998957 0,62 62.0000004,0 0,-62 -62.0000004,0 z"
-       id="path3642"
-       style="fill:#000000;fill-opacity:0;stroke:none" />
-  </g>
   <rect
      y="50.94"
      x="29"
@@ -481,13 +472,6 @@
        id="rect4496"
        style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
-  <rect
-     y="-.06"
-     x="0"
-     height="5"
-     width="5"
-     id="hint-tile-center"
-     style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none" />
   <path
      d="m 121,49.93897 10,0 0,-2 c 0,-2.77 2.23,-5 5,-5 l 2,0 0,-10 -17,0 z"
      id="shadow-topleft"
