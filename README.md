@@ -10,3 +10,8 @@ Plasma Theme
 Fixed widget: panel-background.svg
 
 Corrected icon: printer.svg
+
+GTK-3 Theme
+-----------
+
+Correction of gtkrc file
