@@ -10,7 +10,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    sodipodi:docname="checkmarks.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:version="0.32"
    id="svg2"
    height="16"
@@ -132,13 +132,13 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1011"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="5.0342783"
-     inkscape:cx="16.153084"
+     inkscape:cy="10.408449"
+     inkscape:cx="32.564608"
      inkscape:zoom="11.313709"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -195,8 +195,8 @@
          r="3.5"
          style="fill:#fac136;fill-opacity:1;stroke:none;stroke-width:0.875"
          id="circle4185-9"
-         cx="78.856003"
-         cy="71.141998" />
+         cx="78.989334"
+         cy="71.141335" />
     </g>
     <g
        style="fill:#17b58e;fill-opacity:1"
