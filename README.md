@@ -24,6 +24,8 @@ Plasma Theme
 
 Icon correction: clipper.svg
 
+Widget correction: checkmarks.svg
+
 GTK-3 Theme
 -----------
 
