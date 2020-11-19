@@ -30,3 +30,20 @@ GTK-3 Theme
 -----------
 
 Correction: button-active.png and button-hover.png
+
+Changelog: 19.11.2020.
+----------------------
+
+Peace-Harmony-Dark-Icons
+------------------------
+
+Added icon: onlyoffice-desktopeditors
+
+Peace-Harmony-Light-Icons
+-------------------------
+
+Added icon: onlyoffice-desktopeditors
+
+Correction of some icons in the action folder
+
+
