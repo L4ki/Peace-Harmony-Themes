@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="window.svg"
    id="svg32"
    version="1.1"
@@ -36,7 +36,7 @@
      inkscape:zoom="8"
      showgrid="false"
      id="namedview34"
-     inkscape:window-height="1014"
+     inkscape:window-height="1013"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -85,13 +85,6 @@
        d="m -61.325025,45.5 c -0.24328,0.243275 -0.292727,0.677724 -0.0097,1.15234 l -1.32813,0.888685 c -0.16512,-0.06669 -0.34237,-0.116311 -0.517571,-0.1172 -0.227744,-0.0018 -0.449221,0.0683 -0.644536,0.263675 l 0.9375,0.9375 -1.25,1.25 -0.312538,0.625 0.625,-0.3125 1.25,-1.25 0.9375,0.9375 c 0.345925,-0.345925 0.301475,-0.783675 0.146475,-1.162115 l 0.888685,-1.32811 c 0.474621,0.28295 0.909065,0.2335 1.152345,-0.0097 z"
        style="fill:#007fff;fill-opacity:1;stroke-width:0.625" />
   </g>
-  <rect
-     id="rect12"
-     y="14.618093"
-     x="-37.056976"
-     height="22"
-     width="22"
-     style="opacity:0.01;fill:#007fff;fill-opacity:1" />
   <g
      transform="translate(0,-22)"
      id="22-22-window-close">

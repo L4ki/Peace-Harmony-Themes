@@ -10,7 +10,7 @@
    id="svg2"
    width="22"
    height="22"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="drive.svg"
    version="1.1">
   <metadata
@@ -73,9 +73,9 @@
     <path
        id="rect8476"
        class="ColorScheme-Text"
-       d="m-17 7c-1 0-1 1-1 1v12s0 1 1 1h10s1 0 1-1v-12s0-1-1-1zm5 2c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4h-4v-4c0-2.2091 1.7909-4 4-4zm0 2c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2z"
+       d="m -17,7 c -1,0 -1,1 -1,1 v 12 c 0,0 0,1 1,1 h 10 c 0,0 1,0 1,-1 V 8 c 0,0 0,-1 -1,-1 z m 5,2 c 2.2091,0 4,1.7909 4,4 0,2.2091 -1.7909,4 -4,4 h -4 v -4 c 0,-2.2091 1.7909,-4 4,-4 z m 0,2 c -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"
        fill="currentColor"
-       style="fill:#d3dbe3;fill-opacity:1" />
+       style="fill:#eff0f1;fill-opacity:1" />
   </g>
   <g
      id="drive-harddisk">
@@ -84,7 +84,7 @@
        d="M 6,2 C 4.892,2 4,2.892 4,4 v 14 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 4 C 18,2.892 17.108,2 16,2 Z M 6,4 H 7 V 6 H 6 Z M 8,4 H 9 V 6 H 8 Z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,1 h 1 v 1 h -1 z m -3,2 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z m 5,10 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"
        fill="#dedede"
        inkscape:connector-curvature="0"
-       style="fill:#d3dae3;fill-opacity:1" />
+       style="fill:#eff0f1;fill-opacity:1" />
     <path
        id="rect4148"
        d="M 0,0 H 22 V 22 H 0 Z"
