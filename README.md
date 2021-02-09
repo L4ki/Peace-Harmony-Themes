@@ -46,4 +46,14 @@ Added icon: onlyoffice-desktopeditors
 
 Correction of some icons in the action folder
 
+Changelog: 09.02.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Correction of gtkrc file
+
+
+
 
