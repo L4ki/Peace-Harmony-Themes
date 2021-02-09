@@ -10,7 +10,7 @@
    sodipodi:docname="preferences.svg"
    height="100%"
    width="100%"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    version="1.1"
    id="svg"
    viewBox="0 0 22 22">
@@ -52,9 +52,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="9.1134967"
-     inkscape:cx="7.2430467"
-     inkscape:zoom="19.061728"
+     inkscape:cy="32.199601"
+     inkscape:cx="53.581839"
+     inkscape:zoom="6.7393386"
      showgrid="false"
      id="namedview32"
      inkscape:window-height="1013"
@@ -166,12 +166,12 @@
        height="15.999987"
        width="15.999978"
        id="rect4130-82-0"
-       style="fill:#00bcd4;fill-opacity:1;stroke:none" />
+       style="fill:#4ba4ff;fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="cccccsssss"
        id="rect4142-6"
        d="m 11.202644,7.1999826 -0.0026,7.2000124 h 1.599998 l 0.0026,-7.2000124 z m 0.799999,7.9999894 c -0.441822,0 -0.799999,0.358171 -0.799999,0.799999 0,0.441827 0.358177,0.799999 0.799999,0.799999 0.441822,0 0.799999,-0.358172 0.799999,-0.799999 0,-0.441828 -0.358177,-0.799999 -0.799999,-0.799999 z"
-       style="fill:#0048b2;fill-opacity:1;stroke:none"
+       style="fill:#fac136;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
   <g
