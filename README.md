@@ -59,6 +59,11 @@ Icons
 
 Added Icons: folder-KDE, folder-Manjaro, folder-Neon, folder-openSUSE, Folder-Reddit, folder-Github, folder-Pop_OS.svg
 
+Plasma Themes
+-------------
+
+Redesigned Theme 
+
 
 
 
