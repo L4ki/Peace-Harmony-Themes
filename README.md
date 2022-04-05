@@ -64,6 +64,16 @@ Plasma Themes
 
 Redesigned Theme 
 
+Changelog: 05.04.2022.
+----------------------
+
+Peace-Harmony-Plasma Theme
+---------------------------
+
+Udate widgets: slider.svg, scrollbar.svg
+
+Added icon: compass.svg
+
 
 
 
