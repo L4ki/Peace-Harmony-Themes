@@ -4,9 +4,12 @@ Comment=Peace-Harmony-Plasma Theme
 X-KDE-PluginInfo-Author=l4k1
 X-KDE-PluginInfo-Email=l4k1987a@gmail.com
 X-KDE-PluginInfo-Name=Peace-Harmony-Plasma
-X-KDE-PluginInfo-Version=2.5
+X-KDE-PluginInfo-Version=2.6
 X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true
